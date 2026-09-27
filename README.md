@@ -1,5 +1,7 @@
 # AI StudyBuddy API
 
+##PROJECT DEMO
+AI-STUDYBUDDY - https://drive.google.com/file/d/1pniIi77llXuB3fkgMT9Cv3EkFBCIsjQb/view?usp=drive_link
 An AI-powered educational backend built with **Node.js, Express, MongoDB, and Gemini 2.5 Flash**.
 
 ## Features
